@@ -1,4 +1,4 @@
-package com.example.formula_one
+package com.codeeaters.formula_one
 
 import io.flutter.embedding.android.FlutterActivity
 
